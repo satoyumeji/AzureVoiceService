@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7fQzWIQj4mvl8fHYHNTo75SWhJ3MFoI+8lp045KZblq3O6THFzndynh8NcAEeQlZrMcZBDxkKk1fI0DF44PwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hirus\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.14.0\\microsoft.cognitiveservices.speech.1.14.0.nupkg.sha512",
+    "C:\\Users\\hirus\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\hirus\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\hirus\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\hirus\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\hirus\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\hirus\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
