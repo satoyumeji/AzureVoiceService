@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7fQzWIQj4mvl8fHYHNTo75SWhJ3MFoI+8lp045KZblq3O6THFzndynh8NcAEeQlZrMcZBDxkKk1fI0DF44PwA==",
+  "dgSpecHash": "4eEs39ym/FHROhpoBJIMA8DGOTQB/PvKCSe56bHx7h9O2/xKgNKYvI+BtftHNT6iEJXFS1/ktmUaY0jelsTL1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\helloworld.csproj",
+  "projectFilePath": "C:\\Users\\hirus\\Documents\\GitHub\\AzureVoiceService\\from-microphone\\helloworld\\helloworld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hirus\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.14.0\\microsoft.cognitiveservices.speech.1.14.0.nupkg.sha512",
     "C:\\Users\\hirus\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",

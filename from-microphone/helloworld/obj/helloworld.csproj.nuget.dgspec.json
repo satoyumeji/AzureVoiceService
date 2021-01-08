@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\helloworld.csproj": {}
+    "C:\\Users\\hirus\\Documents\\GitHub\\AzureVoiceService\\from-microphone\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\helloworld.csproj": {
+    "C:\\Users\\hirus\\Documents\\GitHub\\AzureVoiceService\\from-microphone\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\hirus\\Documents\\GitHub\\AzureVoiceService\\from-microphone\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\helloworld.csproj",
+        "projectPath": "C:\\Users\\hirus\\Documents\\GitHub\\AzureVoiceService\\from-microphone\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\hirus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hirus\\Documents\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnetcore\\from-microphone\\helloworld\\obj\\",
+        "outputPath": "C:\\Users\\hirus\\Documents\\GitHub\\AzureVoiceService\\from-microphone\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hirus\\AppData\\Roaming\\NuGet\\NuGet.Config",
